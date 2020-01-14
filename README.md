@@ -1,2 +1,0 @@
-# playbot
-Begin app
